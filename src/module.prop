@@ -1,0 +1,6 @@
+id=mouse_orientation_fix_k606f
+name=Mouse Orientation Fix (Lenovo YT-K606F_S510234)
+version=v1
+versionCode=1
+author=prog4food
+description=Fixes swapped X/Y axes for SOURCE_MOUSE_RELATIVE (0x20004) in libinputreader.so
